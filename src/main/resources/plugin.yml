@@ -1,0 +1,7 @@
+name: AngryKit
+version: '${project.version}'
+main: org.irq3.angrykit.AngryKit
+api-version: '1.19'
+commands:
+  kit:
+    description: To jest kit
